@@ -1,0 +1,17 @@
+/target
+/lib
+/classes
+/checkouts
+/logs
+/docs
+/doc
+*.jar
+*.class
+.lein*
+/.idea
+*.iml
+pom.xml*
+.env
+/resources/public/js
+/node_modules
+*.log
